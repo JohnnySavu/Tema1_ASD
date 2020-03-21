@@ -1,26 +1,4 @@
 Test 1
-No elements: 10000000. Maximum Value: 90000000000
-Bubble Sort. Not executed 
-Radix Sort Base 256. Execution time: 1.14066.  Ok.
-Radix Sort Base 16. Execution time: 2.08427.  Ok.
-Merge Sort. Execution time: 5.11423.  Ok.
-Count Sort. Not executed 
-Quick Sort Median of Three. Execution time: 4.26639.  Ok.
-Quick Sort BFPRT. Not executed 
-STL Sort. Execution time 4.77602s. Ok.
-
-Test 2
-No elements: 1000000. Maximum Value: 10
-Bubble Sort. Not executed 
-Radix Sort Base 256. Execution time: 0.046893.  Ok.
-Radix Sort Base 16. Execution time: 0.043775.  Ok.
-Merge Sort. Execution time: 0.321036.  Ok.
-Count Sort. Execution time: 0.015621.  Ok.
-Quick Sort Median of Three. Not executed 
-Quick Sort BFPRT. Not executed 
-STL Sort. Execution time 0.317526s. Ok.
-
-Test 3
 No elements: 10. Maximum Value: 100000000
 Bubble Sort. Execution time: 0.  Ok.
 Radix Sort Base 256. Execution time: 0.  Ok.
@@ -31,79 +9,101 @@ Quick Sort Median of Three. Execution time: 0.  Ok.
 Quick Sort BFPRT. Execution time: 0.  Ok.
 STL Sort. Execution time 0s. Ok.
 
+Test 2
+No elements: 10000000. Maximum Value: 90000000000
+Bubble Sort. Not executed 
+Radix Sort Base 256. Execution time: 1.15918.  Ok.
+Radix Sort Base 16. Execution time: 2.09425.  Ok.
+Merge Sort. Execution time: 4.92006.  Ok.
+Count Sort. Not executed 
+Quick Sort Median of Three. Execution time: 4.58635.  Ok.
+Quick Sort BFPRT. Not executed 
+STL Sort. Execution time 4.84722s. Ok.
+
+Test 3
+No elements: 1000000. Maximum Value: 10
+Bubble Sort. Not executed 
+Radix Sort Base 256. Execution time: 0.039803.  Ok.
+Radix Sort Base 16. Execution time: 0.046865.  Ok.
+Merge Sort. Execution time: 0.294733.  Ok.
+Count Sort. Execution time: 0.027992.  Ok.
+Quick Sort Median of Three. Not executed 
+Quick Sort BFPRT. Not executed 
+STL Sort. Execution time 0.325206s. Ok.
+
 Test 4
 No elements: 100. Maximum Value: 100000
 Bubble Sort. Execution time: 0.  Ok.
 Radix Sort Base 256. Execution time: 0.  Ok.
 Radix Sort Base 16. Execution time: 0.  Ok.
 Merge Sort. Execution time: 0.  Ok.
-Count Sort. Execution time: 0.000998.  Ok.
+Count Sort. Execution time: 0.  Ok.
 Quick Sort Median of Three. Execution time: 0.  Ok.
 Quick Sort BFPRT. Execution time: 0.  Ok.
 STL Sort. Execution time 0s. Ok.
 
 Test 5
 No elements: 1000. Maximum Value: 3000000
-Bubble Sort. Execution time: 0.011002.  Ok.
+Bubble Sort. Execution time: 0.011995.  Ok.
 Radix Sort Base 256. Execution time: 0.  Ok.
 Radix Sort Base 16. Execution time: 0.  Ok.
-Merge Sort. Execution time: 0.000996.  Ok.
-Count Sort. Execution time: 0.020949.  Ok.
+Merge Sort. Execution time: 0.  Ok.
+Count Sort. Execution time: 0.019973.  Ok.
 Quick Sort Median of Three. Execution time: 0.  Ok.
-Quick Sort BFPRT. Execution time: 0.000998.  Ok.
+Quick Sort BFPRT. Execution time: 0.  Ok.
 STL Sort. Execution time 0s. Ok.
 
 Test 6
 No elements: 1000000. Maximum Value: 3000000
 Bubble Sort. Not executed 
-Radix Sort Base 256. Execution time: 0.081894.  Ok.
-Radix Sort Base 16. Execution time: 0.1537.  Ok.
-Merge Sort. Execution time: 0.3822.  Ok.
-Count Sort. Execution time: 0.069032.  Ok.
-Quick Sort Median of Three. Execution time: 0.385336.  Ok.
-Quick Sort BFPRT. Execution time: 0.815538.  Ok.
-STL Sort. Execution time 0.412231s. Ok.
+Radix Sort Base 256. Execution time: 0.07814.  Ok.
+Radix Sort Base 16. Execution time: 0.147151.  Ok.
+Merge Sort. Execution time: 0.393938.  Ok.
+Count Sort. Execution time: 0.069027.  Ok.
+Quick Sort Median of Three. Execution time: 0.369824.  Ok.
+Quick Sort BFPRT. Execution time: 0.803282.  Ok.
+STL Sort. Execution time 0.39993s. Ok.
 
 Test 7
 No elements: 100000. Maximum Value: 90000000000
 Bubble Sort. Not executed 
-Radix Sort Base 256. Execution time: 0.011967.  Ok.
-Radix Sort Base 16. Execution time: 0.01562.  Ok.
-Merge Sort. Execution time: 0.031262.  Ok.
+Radix Sort Base 256. Execution time: 0.011981.  Ok.
+Radix Sort Base 16. Execution time: 0.015618.  Ok.
+Merge Sort. Execution time: 0.022184.  Ok.
 Count Sort. Not executed 
-Quick Sort Median of Three. Execution time: 0.031267.  Ok.
-Quick Sort BFPRT. Execution time: 0.068984.  Ok.
-STL Sort. Execution time 0.02916s. Ok.
+Quick Sort Median of Three. Execution time: 0.035997.  Ok.
+Quick Sort BFPRT. Execution time: 0.069014.  Ok.
+STL Sort. Execution time 0.031238s. Ok.
 
 Test 8
 No elements: 1000000. Maximum Value: 1000000
 Bubble Sort. Not executed 
-Radix Sort Base 256. Execution time: 0.079089.  Ok.
-Radix Sort Base 16. Execution time: 0.124189.  Ok.
-Merge Sort. Execution time: 0.385395.  Ok.
-Count Sort. Execution time: 0.031244.  Ok.
-Quick Sort Median of Three. Execution time: 0.369627.  Ok.
-Quick Sort BFPRT. Execution time: 0.816878.  Ok.
-STL Sort. Execution time 0.383829s. Ok.
+Radix Sort Base 256. Execution time: 0.079692.  Ok.
+Radix Sort Base 16. Execution time: 0.115888.  Ok.
+Merge Sort. Execution time: 0.400071.  Ok.
+Count Sort. Execution time: 0.031239.  Ok.
+Quick Sort Median of Three. Execution time: 0.364699.  Ok.
+Quick Sort BFPRT. Execution time: 0.803806.  Ok.
+STL Sort. Execution time 0.400832s. Ok.
 
 Test 9
 No elements: 10000000. Maximum Value: 100000000
 Bubble Sort. Not executed 
-Radix Sort Base 256. Execution time: 1.00322.  Ok.
-Radix Sort Base 16. Execution time: 1.54145.  Ok.
-Merge Sort. Execution time: 4.63417.  Ok.
+Radix Sort Base 256. Execution time: 0.99863.  Ok.
+Radix Sort Base 16. Execution time: 1.56948.  Ok.
+Merge Sort. Execution time: 4.6837.  Ok.
 Count Sort. Not executed 
-Quick Sort Median of Three. Execution time: 4.09477.  Ok.
+Quick Sort Median of Three. Execution time: 4.26765.  Ok.
 Quick Sort BFPRT. Not executed 
-STL Sort. Execution time 4.73623s. Ok.
+STL Sort. Execution time 4.65508s. Ok.
 
 Test 10
 No elements: 20000000. Maximum Value: 10000
 Bubble Sort. Not executed 
-Radix Sort Base 256. Execution time: 1.26495.  Ok.
-Radix Sort Base 16. Execution time: 2.09055.  Ok.
+Radix Sort Base 256. Execution time: 1.31986.  Ok.
+Radix Sort Base 16. Execution time: 2.19075.  Ok.
 Merge Sort. Not executed 
-Count Sort. Execution time: 0.363221.  Ok.
+Count Sort. Execution time: 0.361179.  Ok.
 Quick Sort Median of Three. Not executed 
 Quick Sort BFPRT. Not executed 
 STL Sort. Not executed
